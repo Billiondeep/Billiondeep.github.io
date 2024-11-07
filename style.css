@@ -221,7 +221,7 @@ body {
 }
 
 #sertifikat div{
-    height: 300px;
+    height: 320px;
     width: 420px;
     background: #14364e;
     margin: 20px;
@@ -236,7 +236,7 @@ body {
 }
 
 #sertifikat div button{
-    height: 25px;
+    height: 35px;
     width: 300px;
     background-color: #45667e;
 }
