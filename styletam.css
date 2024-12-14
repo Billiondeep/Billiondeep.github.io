@@ -143,7 +143,7 @@ header ul li.active a {
 
 .banner {
 	height: 80vh;
-	background-image: url('media/g2.jpg');
+	background-image: url('g2.jpg');
 	background-size: cover;
 	position: relative;
 	display: flex;
